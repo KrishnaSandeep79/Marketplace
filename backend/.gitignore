@@ -1,0 +1,6 @@
+.venv
+.idea
+lib
+*.log
+assets
+static
