@@ -1,7 +1,9 @@
 # Marketplace
 
+Checkout our demo here: https://drive.google.com/file/d/1GA4wFLw_X3WsdWV64SGUBNKIX_-7l0TI/view?usp=sharing
+
 ## Idea Inspiration
-Every semester, students move in and out. Students who are leaving mostly sell their belongings through social media chats. Students who are moving in have similar requirements. It is difficult to keep track of the items in social media chats. We aim to create a platform where users can post a thing or item they want to sell and other users can express interest in purchasing.
+Every semester, students move in and out, often selling their belongings through various social media chats. Meanwhile, new students have similar needs for these items. However, tracking these exchanges across multiple chat threads can be overwhelming. To streamline this process, we created a platform where users can list items for sale, and other users can easily show interest in purchasing. This will simplify transactions, making it more efficient for both sellers and buyers.
 
 ## Application Features
 1. Login and Registration: A user should be able to log in and register into the application.
