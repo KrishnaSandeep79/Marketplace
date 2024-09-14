@@ -5,17 +5,19 @@ Checkout our demo here: https://drive.google.com/file/d/1GA4wFLw_X3WsdWV64SGUBNK
 ## Idea Inspiration
 Every semester, students move in and out, often selling their belongings through various social media chats. Meanwhile, new students have similar needs for these items. However, tracking these exchanges across multiple chat threads can be overwhelming. To streamline this process, we created a platform where users can list items for sale, and other users can easily show interest in purchasing. This will simplify transactions, making it more efficient for both sellers and buyers.
 
+## Application Architecture
+  
+
 ## Application Features
 1. Login and Registration: A user should be able to log in and register into the application.
 2. Users should be able to view the products without logging in.
 3. The ability of the user to filter based on the categories.
 4. Search feature so the user can view the products he/she is looking for.
-5. After logging in:
-a. With a single click, the user should be able to show interest in a particular product and a message should be sent to the seller.
-i. A messaging system is in place so buyers and sellers communicate on the same platform.
-ii. Users should be able to view notifications related to the products he/she is interested in.
-b. Logout feature.
-6. Scaling the backend server based on the user's load using Kubernetes.
+5. Login and Logout features.
+6. After logging in, with a single click, the user should be able to show interest in a particular product and a message should be sent to the seller.
+    1. A messaging system is in place so buyers and sellers communicate on the same platform.
+    2. Users should be able to view notifications related to the products they are interested in.
+7. Scaling the backend server based on the user's load using Kubernetes.
 
 Hardware and Software Components
 1. React for frontend development: We chose this as it is very flexible and extensible to mobile applications. It has great performance and is easy to test.
