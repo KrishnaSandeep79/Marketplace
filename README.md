@@ -1,6 +1,6 @@
-# Final Project Repository
+# Marketplace
 
-You need to provide us access to your code repository.
+## Instructions
 
 If you did not use a github repository during your development, you can simply copy your files into this repository and commit those files as you would normally do.
 
